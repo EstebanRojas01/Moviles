@@ -1,5 +1,7 @@
 ## Interview 2 — Juan Jose Murillo Aristizabal — Free Time Matching at U
 > Video recording: [Free Time Matching at U Interview.mp4](./Free%20Time%20Matching%20at%20U%20Interview.mp4)
+
+
 | # | Question | Purpose |
 |---|----------|---------|
 | 1 | How many courses are you taking this semester, and do you live near campus? | Understand the student's context and how much time they spend on campus |
