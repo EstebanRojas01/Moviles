@@ -1,5 +1,5 @@
 ## Interview 2 — Juan Jose Murillo Aristizabal — Free Time Matching at U
-> Video recording: [Free Time Matching at U Interview.mp4](./Free%20Time%20Matching%20at%20U%20Interview.mp4)
+> Video recording: [Interview](./Free%20Time%20Matching%20at%20U%20Interview.mp4)
 
 
 | # | Question | Purpose |
